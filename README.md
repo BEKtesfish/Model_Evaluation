@@ -28,6 +28,4 @@
     python bc_nn_evaluation.py
     python nn_evaluation.py
 
-# License:
- This code is provided under the MIT License.
 
